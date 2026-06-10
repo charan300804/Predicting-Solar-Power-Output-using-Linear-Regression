@@ -5,6 +5,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 
+
+
 ## Overview
 This project aims to predict solar power generation using a linear regression model. The dataset contains various environmental and operational parameters that influence solar power output. The project includes exploratory data analysis (EDA) and machine learning model training using scikit-learn.
 
