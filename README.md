@@ -1,5 +1,10 @@
 # Predicting Solar Power Output using Linear Regression
 
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&style=for-the-badge)](https://jupyter.org/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&style=for-the-badge)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+
 ## Overview
 This project aims to predict solar power generation using a linear regression model. The dataset contains various environmental and operational parameters that influence solar power output. The project includes exploratory data analysis (EDA) and machine learning model training using scikit-learn.
 
@@ -60,4 +65,3 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 
 ## License
 This project is open-source and available under the MIT License.
-
